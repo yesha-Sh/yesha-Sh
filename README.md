@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1080">
-- 👋 Hi, I’m @yesha-Sh A.K.A Prana Ayesha
+- 👋 Hi, I’m @yesha-Sh A.K.A Prana Ayesha 
 - I'm 16 Years Old
 - Right now i am Schooling at SMKN 1 Cimahi in Software Engineering 
 - 👀 I’m interested in Cyber Security , Game & Aplication Development
